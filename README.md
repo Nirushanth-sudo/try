@@ -1,2 +1,2 @@
-echo "# My First Git Repo"
+echo "# My First Git Repo" \n
 new line has been added
